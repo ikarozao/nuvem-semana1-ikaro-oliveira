@@ -1,7 +1,5 @@
 const statusEl = document.getElementById("status");
 const clockEl = document.getElementById("clock");
-const btn = document.getElementById("btn");
-const apiEl = document.getElementById("api");
 function tick() {
 const now = new Date();
 clockEl.textContent = now.toLocaleTimeString("pt-BR");
