@@ -12,7 +12,7 @@
 
 ## Links
 - Repositorio: (https://github.com/ikarozao/nuvem-semana1-ikaro-oliveira.git)
-- Site (GitHub Pages): (https://ikarozao.github.io/nuvem-semana1-ikaro-oliveira/)](https://ikarozao.github.io/nuvem-semana1-ikaro-oliveira/)
+- Site (GitHub Pages): (https://ikarozao.github.io/nuvem-semana1-ikaro-oliveira/)
 ## O que foi feito
 - Inserção de GET + POST para que fosse possivel vizualizar informações metereológicas
 ## Dificuldades
